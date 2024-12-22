@@ -1,10 +1,10 @@
-﻿# Hệ thống quản lý nhà hàng - Royal The Dreamers Restaurant
+﻿# Hệ thống quản lý nhà hàng - LeCorto Restaurant
 
-![Logo](./src/Icons/logo_register.png)
+![Logo](./src/Icons/logo_login.png)
 
 ## Lời cảm ơn
 
-Lời đầu tiên, nhóm The Deamers xin gửi lời cảm ơn trân trọng nhất đến Thầy **Mai Xuân Hùng** – giảng viên môn Lập trình Java đã tận tình giúp đỡ, trực tiếp chỉ bảo, với sự hướng dẫn và những ý kiến quý báu của thầy đã giúp nhóm chúng em hoàn thành được đồ án môn học của mình một cách hoàn thiện.
+Lời đầu tiên, nhóm The Deamers xin gửi lời cảm ơn trân trọng nhất đến Thầy **Lê Viết Linh** – giảng viên môn Công nghệ phần mềm nâng cao đã tận tình giúp đỡ, trực tiếp chỉ bảo, với sự hướng dẫn và những ý kiến quý báu của thầy đã giúp nhóm chúng em hoàn thành được đồ án môn học của mình một cách hoàn thiện.
 
 ## Giới thiệu đồ án
 
@@ -13,14 +13,13 @@ Nhà hàng là một phần không thể thiếu trong đời sống con ngườ
 ## Mục tiêu của đề tài
 Xây dựng hệ thống Quản lý Nhà Hàng một cách chuyên nghiệp, linh hoạt, có thể quản lý và lưu trữ được một lượng dữ liệu lớn. Hệ thống giúp người dùng dễ dàng hơn trong việc tổ chức, quản lý dữ liệu Khách hàng, quản lý Đặt bàn, quản lý Thực đơn,… và nhiều hơn thế nữa.
 
-## Nhóm Thực Hiện : The Dreamers
+## Thực hiện: Nhóm 7
 
-| MSSV | Họ tên   | Facebook | Đánh giá %               |
-| :-------- | :------- | :------------------------- |:-------|
-| 21522791 | Nguyễn Hoàng Việt |[Nguyễn Hoàng Việt](https://www.facebook.com/NgyenHoangViet) |100|
-|21520400 | Nguyễn Hoàng Phúc |[Nguyễn Hoàng Phúc](https://www.facebook.com/hoangphucseiza) |100|
-| 21520190 | Hồ Quang Đỉnh |[Quang Đỉnh](https://www.facebook.com/wuangding) |100|
-| 21520245 | Lê Thị Ánh Hồng	 |[Ánh Hồng](https://www.facebook.com/anhhong8323) |100|
+| MSSV | Họ tên | Đánh giá %|
+| :-------- | :------- |:-------|
+| 205052057 | Trần Ngọc Thiện |100|
+| 215044623 | Nguyễn Minh Mẫn |100|
+| 215051772 | Hà Thị Thanh Thảo |100|
  
 
 ## Mô hình ERD
@@ -101,14 +100,6 @@ Xây dựng hệ thống Quản lý Nhà Hàng một cách chuyên nghi�
 ## Yêu cầu cài đặt
 > * Sử dụng `JDK 17`
 > * Sử dụng `ojdbc8.jar`
-
-## Hướng dẫn cài đặt chương trình
-> * **Bước 1:** Clone project [Java_Project_RestaurantMS](https://github.com/VietNguyen2003-UIT/Java_Project_RestaurantMS)
-> * **Bước 2:** Vào Netbeans chọn Open project và mở project vừa clone về.
-> * **Bước 3:** Thêm tất cả các thư viện cần thiết trong mục src/External_Library.
-> * **Bước 4:** Trong src/DataBase có file Database.sql. Tiến hành vào Oracle tạo user mới với Username là `Doan` và Password là `123`, sau đó chạy toàn bộ file Database.sql.
-> * **Bước 5:** Tiến hành chạy run file src/RTDRestaurant/View/Main_Frame/Main_LoginAndRegister.java để chạy chương trình
->* ***Note:** Xem file hướng dẫn cài đặt dưới đây để hiểu rõ thêm: [File hướng dẫn chi tiết](https://docs.google.com/document/d/10h0v1Bf-x-AGbSoLZw1hegSK2QQK_oClz71aKmKWJ04/edit?usp=sharing)*
 
 ## Tài liệu tham khảo
 
